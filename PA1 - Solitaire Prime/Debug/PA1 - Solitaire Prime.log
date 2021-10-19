@@ -1,0 +1,6 @@
+﻿  Card.cpp
+  Deck.cpp
+C:\Users\Matth\Desktop\Fall 2021 Files\5. CECS 282 (sem)\PA1 - Solitaire Prime\PA1 - Solitaire Prime\Deck.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+  Generating Code...
+  PA1 - Solitaire Prime.vcxproj -> C:\Users\Matth\Desktop\Fall 2021 Files\5. CECS 282 (sem)\PA1 - Solitaire Prime\Debug\PA1 - Solitaire Prime.exe
